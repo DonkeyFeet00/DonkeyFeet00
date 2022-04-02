@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jimmy, J, or Jimbo!
+- 👋 Hi, I’m Jenny, Jen, or Jennifer!
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on beginner friendly projects written in javascript or C
