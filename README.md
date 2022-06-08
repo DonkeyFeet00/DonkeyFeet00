@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jenny, Jen, or Jennifer!
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on beginner friendly projects written in javascript or C
+- 🌱 I’m currently learning javascript frameworks and the godot game engine
+- 💞️ I’m looking to collaborate on beginner friendly projects written in javascript, C, or GDscript
 - 📫 How to reach me: you can send me a DM on discord! Jen the Destroyer#2727
 
 <!---
